@@ -2,7 +2,11 @@
 
 ###
 
-<p align="left">Soy un apasionado desarrollador de software comprometido con la creación de soluciones tecnológicas innovadoras. Mi enfoque va más allá del código: creo en la importancia de construir experiencias significativas y eficientes para los usuarios.</p>
+<p align="left">Soy un joven altamente motivado, apasionado por la Informática, dispuesto a asumir nuevos desafíos para alcanzar metas y crecer profesionalmente.
+
+Me considero preparado y formado como para trabajar y seguir sumando más experiencia en el sector de la informática.
+
+Soy capaz de trabajar bajo presión, me adapto a todo tipo de tareas y situaciones y me gusta afrontar nuevos retos.</p>
 
 ###
 
@@ -22,11 +26,7 @@
 <h3 align="left">Tecnologías</h3>
 
 ###
-![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
-![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Bootstrap5](https://img.shields.io/badge/-Bootstrap5-000?&logo=Bootstrap)
-![Jquery](https://img.shields.io/badge/-Jquery-000?&logo=Jquery)
+
 
 <h3 align="left">Bases de Datos</h3>
 
