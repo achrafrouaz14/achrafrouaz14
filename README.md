@@ -41,6 +41,4 @@ Soy capaz de trabajar bajo presión, me adapto a todo tipo de tareas y situacion
 <a href="mailto:achrafrouaz14@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" alt="gmail logo"  />
 </a>
-<a href="https://www.linkedin.com/in/alexcruceat" target="_blank">
-    <img src="[https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit)" alt="linkedin logo"  />
-</a>
+
